@@ -1,0 +1,5 @@
+schema: spec-driven
+
+context: |
+  Правила проекта — в .zcode/constitution/*.md (прочитай все перед созданием артефактов)
+  и в корневом AGENTS.md.
